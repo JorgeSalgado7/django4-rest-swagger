@@ -1,0 +1,13 @@
+env
+
+# Django
+__pycache__
+db.sqlite3
+migrations
+
+# Django static folders
+static
+staticfiles
+
+#Folders
+/q/
