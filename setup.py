@@ -29,4 +29,5 @@ setup(
     long_description=README,
     author='Jorge Salgado',
     author_email='contacto@jorgesalgado.com.mx',
+	url='https://github.com/JorgeSalgado7/django4-rest-swagger'
 )
