@@ -1,4 +1,7 @@
-env
+# Folders
+/env/
+/dist/
+/django4_rest_swagger.egg-info/
 
 # Django
 __pycache__
@@ -8,6 +11,3 @@ migrations
 # Django static folders
 static
 staticfiles
-
-#Folders
-/q/
